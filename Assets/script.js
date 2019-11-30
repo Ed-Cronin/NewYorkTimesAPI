@@ -1,1 +1,1 @@
-console.log("Hi");
+// start of the script file
